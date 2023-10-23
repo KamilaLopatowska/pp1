@@ -1,0 +1,5 @@
+a = input("Choose first number: ")
+b = input("Choose second number: ")
+division = int(a) // int(b)
+remainder = int(a) % int(b)
+print(f'Number one: {a}\n Number two: {b}\n Division result: {division}\n Remainder: {remainder}')
