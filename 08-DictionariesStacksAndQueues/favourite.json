@@ -1,0 +1,10 @@
+{
+    "title": "Girl, interrupted",
+    "year": 1999,
+    "actor": {
+        "leading": "Winona Ryder",
+        "supporting": "Angelina Jolie"
+    },
+    "oscar": true,
+    "genre": "psychological thriller"
+}
